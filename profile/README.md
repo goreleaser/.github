@@ -6,5 +6,5 @@
 - Support the project by [donating](https://opencollective.com/goreleaser) or [buying a Pro license](https://goreleaser.com/pro/).
 
 ### Latest posts
-- [GoReleaser 1.3, the first of 2022](https://blog.goreleaser.com/goreleaser-1-3-the-first-of-2022-3083d3716e6f?source=rss----17aa0cbd263f---4) (2 days ago)
+- [GoReleaser 1.3, the first of 2022](https://blog.goreleaser.com/goreleaser-1-3-the-first-of-2022-3083d3716e6f?source=rss----17aa0cbd263f---4) (3 days ago)
 - [Announcing GoReleaser v1.2.0 — Santa/5 year anniversary edition](https://blog.goreleaser.com/announcing-goreleaser-v1-2-0-santa-5-year-anniversary-edition-3b486295d708?source=rss----17aa0cbd263f---4) (3 weeks ago)
