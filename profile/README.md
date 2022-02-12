@@ -10,6 +10,6 @@
 - [v1.4.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.4.1-pro) ([PRO](https://goreleaser.com/pro), _released 2 weeks ago_)
 
 ### Latest posts
-- [How to use GoReleaser with Cloud Native Storage](https://blog.goreleaser.com/how-to-use-goreleaser-with-cloud-native-storage-bbc4bee5fe91?source=rss----17aa0cbd263f---4) (6 days ago)
+- [How to use GoReleaser with Cloud Native Storage](https://blog.goreleaser.com/how-to-use-goreleaser-with-cloud-native-storage-bbc4bee5fe91?source=rss----17aa0cbd263f---4) (1 week ago)
 - [GoReleaser v1.4 — the AUR release](https://blog.goreleaser.com/goreleaser-v1-4-the-aur-release-90aa75e16610?source=rss----17aa0cbd263f---4) (2 weeks ago)
 - [GoReleaser and Docker Manifests](https://blog.goreleaser.com/goreleaser-and-docker-manifests-9fe167acf21e?source=rss----17aa0cbd263f---4) (2 weeks ago)
