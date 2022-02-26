@@ -1,13 +1,22 @@
 ## GoReleaser
 
-- Check out our [Website](https://goreleaser.com);
-- Follow us on [Twitter](https://twitter.com/goreleaser);
-- Join our [Discord server](https://discord.gg/RGEBtg8vQ6);
-- Support the project by [donating](https://opencollective.com/goreleaser) or [buying a Pro license](https://goreleaser.com/pro/).
+Social:
+
+[![Visit our website](https://img.shields.io/badge/website-visit-4285F4?style=for-the-badge&logo=googlechrome)](https://goreleaser.com)
+[![Join Discord](https://img.shields.io/badge/Join_our_Discord_server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RGEBtg8vQ6)
+[![Follow on Twitter](https://img.shields.io/badge/follow_on_twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/goreleaser)
+[![GitHub Discussions](https://img.shields.io/badge/GITHUB_DISCUSSION-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goreleaser/goreleaser/discussions)
+
+Finance:
+
+[![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/goreleaser?logo=opencollective&style=for-the-badge)](https://opencollective.com/goreleaser)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/caarlos0?logo=github&style=for-the-badge)](https://github.com/sponsors/caarlos0)
+[![Pro License](https://img.shields.io/badge/pro-get%20a%20PRO%20license-36A9AE?style=for-the-badge&logo=gumroad)](https://goreleaser.com/pro)
 
 ### Latest releases
-- [v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 weeks ago_)
-- [v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) ([PRO](https://goreleaser.com/pro), _released 2 weeks ago_)
+- GoReleaser [v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 weeks ago_)
+- GoReleaser [v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) ([PRO](https://goreleaser.com/pro), _released 2 weeks ago_)
+- nFPM [v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) ([OSS](https://nfpm.goreleaser.com), _released today_)
 
 ### Latest posts
 - [Use GoReleaser With Azure DevOps](https://blog.goreleaser.com/use-goreleaser-with-azure-devops-c2212d3996ca?source=rss----17aa0cbd263f---4) (6 days ago)
