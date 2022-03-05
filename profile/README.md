@@ -14,11 +14,11 @@ Finance:
 [![Pro License](https://img.shields.io/badge/pro-get%20a%20PRO%20license-36A9AE?style=for-the-badge&logo=gumroad)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 weeks ago_)
-- GoReleaser [v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) ([PRO](https://goreleaser.com/pro), _released 2 weeks ago_)
-- nFPM [v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) ([OSS](https://nfpm.goreleaser.com), _released 6 days ago_)
+- GoReleaser [v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 3 weeks ago_)
+- GoReleaser [v1.5.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.5.0-pro) ([PRO](https://goreleaser.com/pro), _released 3 weeks ago_)
+- nFPM [v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
 
 ### Latest posts
 - [Use GoReleaser With Azure DevOps](https://blog.goreleaser.com/use-goreleaser-with-azure-devops-c2212d3996ca?source=rss----17aa0cbd263f---4) (1 week ago)
-- [GoReleaser 1.5 — the misc improvements release](https://blog.goreleaser.com/goreleaser-1-5-the-misc-improvements-release-1c5dbc9f1e64?source=rss----17aa0cbd263f---4) (2 weeks ago)
-- [How to use GoReleaser with Cloud Native Storage](https://blog.goreleaser.com/how-to-use-goreleaser-with-cloud-native-storage-bbc4bee5fe91?source=rss----17aa0cbd263f---4) (3 weeks ago)
+- [GoReleaser 1.5 — the misc improvements release](https://blog.goreleaser.com/goreleaser-1-5-the-misc-improvements-release-1c5dbc9f1e64?source=rss----17aa0cbd263f---4) (3 weeks ago)
+- [How to use GoReleaser with Cloud Native Storage](https://blog.goreleaser.com/how-to-use-goreleaser-with-cloud-native-storage-bbc4bee5fe91?source=rss----17aa0cbd263f---4) (4 weeks ago)
