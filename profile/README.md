@@ -19,6 +19,6 @@ Finance:
 - nFPM [v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
 
 ### Latest posts
-- [Use GoReleaser With Azure DevOps](https://blog.goreleaser.com/use-goreleaser-with-azure-devops-c2212d3996ca?source=rss----17aa0cbd263f---4) (1 week ago)
+- [Use GoReleaser With Azure DevOps](https://blog.goreleaser.com/use-goreleaser-with-azure-devops-c2212d3996ca?source=rss----17aa0cbd263f---4) (2 weeks ago)
 - [GoReleaser 1.5 — the misc improvements release](https://blog.goreleaser.com/goreleaser-1-5-the-misc-improvements-release-1c5dbc9f1e64?source=rss----17aa0cbd263f---4) (3 weeks ago)
 - [How to use GoReleaser with Cloud Native Storage](https://blog.goreleaser.com/how-to-use-goreleaser-with-cloud-native-storage-bbc4bee5fe91?source=rss----17aa0cbd263f---4) (4 weeks ago)
