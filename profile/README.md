@@ -14,11 +14,11 @@ Finance:
 [![Pro License](https://img.shields.io/badge/pro-get%20a%20PRO%20license-36A9AE?style=for-the-badge&logo=gumroad)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1) ([OSS](https://github.com/goreleaser/goreleaser), _released 1 day ago_)
-- GoReleaser [v1.6.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.6.1-pro) ([PRO](https://goreleaser.com/pro), _released 1 day ago_)
+- GoReleaser [v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 days ago_)
+- GoReleaser [v1.6.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.6.1-pro) ([PRO](https://goreleaser.com/pro), _released 2 days ago_)
 - nFPM [v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
 
 ### Latest posts
-- [GoReleaser v1.6 — the boring release](https://blog.goreleaser.com/goreleaser-v1-6-the-boring-release-250930241da6?source=rss----17aa0cbd263f---4) (1 day ago)
+- [GoReleaser: How To Distribute Your Binaries With Homebrew Or GoFish](https://blog.goreleaser.com/goreleaser-how-to-distribute-your-binaries-with-homebrew-or-gofish-472e007b7992?source=rss----17aa0cbd263f---4) (1 day ago)
+- [GoReleaser v1.6 — the boring release](https://blog.goreleaser.com/goreleaser-v1-6-the-boring-release-250930241da6?source=rss----17aa0cbd263f---4) (2 days ago)
 - [Use GoReleaser With Azure DevOps](https://blog.goreleaser.com/use-goreleaser-with-azure-devops-c2212d3996ca?source=rss----17aa0cbd263f---4) (2 weeks ago)
-- [GoReleaser 1.5 — the misc improvements release](https://blog.goreleaser.com/goreleaser-1-5-the-misc-improvements-release-1c5dbc9f1e64?source=rss----17aa0cbd263f---4) (3 weeks ago)
