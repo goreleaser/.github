@@ -16,7 +16,7 @@ Finance:
 ### Latest releases
 - GoReleaser [v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3) ([OSS](https://github.com/goreleaser/goreleaser), _released 1 week ago_)
 - GoReleaser [v1.6.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.6.3-pro) ([PRO](https://goreleaser.com/pro), _released 1 week ago_)
-- nFPM [v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) ([OSS](https://nfpm.goreleaser.com), _released 3 weeks ago_)
+- nFPM [v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) ([OSS](https://nfpm.goreleaser.com), _released today_)
 
 ### Latest posts
 - [GoReleaser: How To Distribute Your Binaries With Homebrew Or GoFish](https://blog.goreleaser.com/goreleaser-how-to-distribute-your-binaries-with-homebrew-or-gofish-472e007b7992?source=rss----17aa0cbd263f---4) (1 week ago)
