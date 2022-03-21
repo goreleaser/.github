@@ -15,10 +15,10 @@ Finance:
 
 ### Latest releases
 - GoReleaser [v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0) ([OSS](https://github.com/goreleaser/goreleaser), _released today_)
-- GoReleaser [v1.6.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.6.3-pro) ([PRO](https://goreleaser.com/pro), _released 1 week ago_)
+- GoReleaser [v1.7.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.7.0-pro) ([PRO](https://goreleaser.com/pro), _released today_)
 - nFPM [v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) ([OSS](https://nfpm.goreleaser.com), _released 2 days ago_)
 
 ### Latest posts
+- [GoReleaser v1.7.0 — The Go 1.18 release](https://blog.goreleaser.com/goreleaser-v1-7-0-the-go-1-18-release-5b06473df8d6?source=rss----17aa0cbd263f---4) (today)
 - [GoReleaser: How To Distribute Your Binaries With Homebrew Or GoFish](https://blog.goreleaser.com/goreleaser-how-to-distribute-your-binaries-with-homebrew-or-gofish-472e007b7992?source=rss----17aa0cbd263f---4) (2 weeks ago)
 - [GoReleaser v1.6 — the boring release](https://blog.goreleaser.com/goreleaser-v1-6-the-boring-release-250930241da6?source=rss----17aa0cbd263f---4) (2 weeks ago)
-- [Use GoReleaser With Azure DevOps](https://blog.goreleaser.com/use-goreleaser-with-azure-devops-c2212d3996ca?source=rss----17aa0cbd263f---4) (4 weeks ago)
