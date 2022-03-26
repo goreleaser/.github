@@ -14,11 +14,11 @@ Finance:
 [![Pro License](https://img.shields.io/badge/pro-get%20a%20PRO%20license-36A9AE?style=for-the-badge&logo=gumroad)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 4 days ago_)
-- GoReleaser [v1.7.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.7.0-pro) ([PRO](https://goreleaser.com/pro), _released 4 days ago_)
-- nFPM [v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) ([OSS](https://nfpm.goreleaser.com), _released 6 days ago_)
+- GoReleaser [v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 5 days ago_)
+- GoReleaser [v1.7.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.7.0-pro) ([PRO](https://goreleaser.com/pro), _released 5 days ago_)
+- nFPM [v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
 
 ### Latest posts
-- [GoReleaser v1.7.0 — The Go 1.18 release](https://blog.goreleaser.com/goreleaser-v1-7-0-the-go-1-18-release-5b06473df8d6?source=rss----17aa0cbd263f---4) (4 days ago)
+- [GoReleaser v1.7.0 — The Go 1.18 release](https://blog.goreleaser.com/goreleaser-v1-7-0-the-go-1-18-release-5b06473df8d6?source=rss----17aa0cbd263f---4) (5 days ago)
 - [GoReleaser: How To Distribute Your Binaries With Homebrew Or GoFish](https://blog.goreleaser.com/goreleaser-how-to-distribute-your-binaries-with-homebrew-or-gofish-472e007b7992?source=rss----17aa0cbd263f---4) (2 weeks ago)
 - [GoReleaser v1.6 — the boring release](https://blog.goreleaser.com/goreleaser-v1-6-the-boring-release-250930241da6?source=rss----17aa0cbd263f---4) (2 weeks ago)
