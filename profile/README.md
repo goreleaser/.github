@@ -16,9 +16,9 @@ Finance:
 ### Latest releases
 - GoReleaser [v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 1 week ago_)
 - GoReleaser [v1.7.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.7.0-pro) ([PRO](https://goreleaser.com/pro), _released 1 week ago_)
-- nFPM [v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) ([OSS](https://nfpm.goreleaser.com), _released 4 days ago_)
+- nFPM [v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) ([OSS](https://nfpm.goreleaser.com), _released 5 days ago_)
 
 ### Latest posts
-- [GoReleaser And Software Supply Chain Security](https://blog.goreleaser.com/goreleaser-and-software-supply-chain-security-e8917b26924b?source=rss----17aa0cbd263f---4) (4 days ago)
-- [Reproducible build with GoReleaser](https://blog.goreleaser.com/reproducible-build-with-goreleaser-6de2763458a5?source=rss----17aa0cbd263f---4) (6 days ago)
+- [GoReleaser And Software Supply Chain Security](https://blog.goreleaser.com/goreleaser-and-software-supply-chain-security-e8917b26924b?source=rss----17aa0cbd263f---4) (5 days ago)
+- [Reproducible build with GoReleaser](https://blog.goreleaser.com/reproducible-build-with-goreleaser-6de2763458a5?source=rss----17aa0cbd263f---4) (1 week ago)
 - [GoReleaser v1.7.0 — The Go 1.18 release](https://blog.goreleaser.com/goreleaser-v1-7-0-the-go-1-18-release-5b06473df8d6?source=rss----17aa0cbd263f---4) (1 week ago)
