@@ -17,6 +17,8 @@ Finance:
 - GoReleaser [v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 weeks ago_)
 - GoReleaser [v1.7.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.7.0-pro) ([PRO](https://goreleaser.com/pro), _released 2 weeks ago_)
 - nFPM [v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
+- GoReleaser Azure DevOps Extension [v0.1.26](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.26) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 1 month ago_)
+- GitHub Action for GoReleaser [v2.9.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.9.1) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 1 month ago_)
 
 ### Latest posts
 - [GoReleaser And Software Supply Chain Security](https://blog.goreleaser.com/goreleaser-and-software-supply-chain-security-e8917b26924b?source=rss----17aa0cbd263f---4) (1 week ago)
