@@ -22,5 +22,5 @@ Finance:
 
 ### Latest posts
 - [GoReleaser And Software Supply Chain Security](https://blog.goreleaser.com/goreleaser-and-software-supply-chain-security-e8917b26924b?source=rss----17aa0cbd263f---4) (1 week ago)
-- [Reproducible build with GoReleaser](https://blog.goreleaser.com/reproducible-build-with-goreleaser-6de2763458a5?source=rss----17aa0cbd263f---4) (1 week ago)
+- [Reproducible build with GoReleaser](https://blog.goreleaser.com/reproducible-build-with-goreleaser-6de2763458a5?source=rss----17aa0cbd263f---4) (2 weeks ago)
 - [GoReleaser v1.7.0 — The Go 1.18 release](https://blog.goreleaser.com/goreleaser-v1-7-0-the-go-1-18-release-5b06473df8d6?source=rss----17aa0cbd263f---4) (2 weeks ago)
