@@ -24,12 +24,13 @@ Finance:
 {{- range rss "https://github.com/goreleaser/nfpm/releases.atom" 1 }}
 - nFPM [{{ .Title }}]({{ .URL }}) ([OSS](https://nfpm.goreleaser.com), _released {{ humanize .PublishedAt }}_)
 {{- end }}
-{{- range rss "https://github.com/goreleaser/goreleaser-azure-devops-extension/releases.atom" 1 }}
-- GoReleaser Azure DevOps Extension [{{ .Title }}]({{ .URL }}) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released {{ humanize .PublishedAt }}_)
-{{- end }}
 {{- range rss "https://github.com/goreleaser/goreleaser-action/releases.atom" 1 }}
 - GitHub Action for GoReleaser [{{ .Title }}]({{ .URL }}) ([OSS](https://github.com/goreleaser/goreleaser-action), _released {{ humanize .PublishedAt }}_)
 {{- end }}
+{{- range rss "https://github.com/goreleaser/goreleaser-azure-devops-extension/releases.atom" 1 }}
+- GoReleaser Azure DevOps Extension [{{ .Title }}]({{ .URL }}) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released {{ humanize .PublishedAt }}_)
+{{- end }}
+
 
 ### Latest posts
 
