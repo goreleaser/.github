@@ -22,6 +22,6 @@ Finance:
 
 
 ### Latest posts
-- [GoReleaser v1.8.0 — The GOAMD64 release](https://blog.goreleaser.com/goreleaser-v1-8-0-the-goamd64-release-60586d18dbe4?source=rss----17aa0cbd263f---4) (2 weeks ago)
+- [GoReleaser v1.8.0 — The GOAMD64 release](https://blog.goreleaser.com/goreleaser-v1-8-0-the-goamd64-release-60586d18dbe4?source=rss----17aa0cbd263f---4) (3 weeks ago)
 - [GoReleaser And Software Supply Chain Security](https://blog.goreleaser.com/goreleaser-and-software-supply-chain-security-e8917b26924b?source=rss----17aa0cbd263f---4) (1 month ago)
 - [Reproducible build with GoReleaser](https://blog.goreleaser.com/reproducible-build-with-goreleaser-6de2763458a5?source=rss----17aa0cbd263f---4) (1 month ago)
