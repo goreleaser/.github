@@ -14,11 +14,11 @@ Finance:
 [![Pro License](https://img.shields.io/badge/pro-get%20a%20PRO%20license-36A9AE?style=for-the-badge&logo=gumroad)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 weeks ago_)
-- GoReleaser [v1.8.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.8.3-pro) ([PRO](https://goreleaser.com/pro), _released 2 weeks ago_)
+- GoReleaser [v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) ([OSS](https://github.com/goreleaser/goreleaser), _released 3 weeks ago_)
+- GoReleaser [v1.8.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.8.3-pro) ([PRO](https://goreleaser.com/pro), _released 3 weeks ago_)
 - nFPM [v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) ([OSS](https://nfpm.goreleaser.com), _released 1 month ago_)
 - GitHub Action for GoReleaser [v2.9.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.9.1) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 2 months ago_)
-- GoReleaser Azure DevOps Extension [v0.1.27](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.27) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 3 weeks ago_)
+- GoReleaser Azure DevOps Extension [v0.1.27](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.27) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 4 weeks ago_)
 
 
 ### Latest posts
