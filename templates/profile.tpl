@@ -30,6 +30,9 @@ Finance:
 {{- range rss "https://github.com/goreleaser/goreleaser-azure-devops-extension/releases.atom" 1 }}
 - GoReleaser Azure DevOps Extension [{{ .Title }}]({{ .URL }}) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released {{ humanize .PublishedAt }}_)
 {{- end }}
+{{- range rss "https://github.com/goreleaser/goreleaser-cross/releases.atom" 1 }}
+- GoReleaser Cross [{{ .Title }}]({{ .URL }}) ([OSS](https://github.com/goreleaser/goreleaser-cross), _released {{ humanize .PublishedAt }}_)
+{{- end }}
 
 
 ### Latest posts
