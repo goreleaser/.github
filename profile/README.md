@@ -4,6 +4,7 @@ Social:
 
 [![Visit our website](https://img.shields.io/badge/website-visit-4285F4?style=for-the-badge&logo=googlechrome)](https://goreleaser.com)
 [![Join Discord](https://img.shields.io/badge/Join_our_Discord_server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RGEBtg8vQ6)
+[![Signup to our newsletter](https://img.shields.io/badge/Newsletter-signup-E15718?style=for-the-badge&logo=revue)](https://www.getrevue.co/profile/goreleaser)
 [![Follow on Twitter](https://img.shields.io/badge/follow_on_twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/goreleaser)
 [![GitHub Discussions](https://img.shields.io/badge/GITHUB_DISCUSSIONS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goreleaser/goreleaser/discussions)
 
