@@ -15,15 +15,15 @@ Finance:
 [![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1) ([OSS](https://github.com/goreleaser/goreleaser), _released today_)
-- GoReleaser [v1.9.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.1-pro) ([PRO](https://goreleaser.com/pro), _released today_)
+- GoReleaser [v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1) ([OSS](https://github.com/goreleaser/goreleaser), _released 1 day ago_)
+- GoReleaser [v1.9.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.9.1-pro) ([PRO](https://goreleaser.com/pro), _released 1 day ago_)
 - nFPM [v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) ([OSS](https://nfpm.goreleaser.com), _released 1 month ago_)
 - GitHub Action for GoReleaser [v2.9.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.9.1) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 2 months ago_)
 - GoReleaser Azure DevOps Extension [v0.1.27](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.27) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 1 month ago_)
-- GoReleaser Cross [v1.18.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.2) ([OSS](https://github.com/goreleaser/goreleaser-cross), _released 1 day ago_)
+- GoReleaser Cross [v1.18.2](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.18.2) ([OSS](https://github.com/goreleaser/goreleaser-cross), _released 2 days ago_)
 
 
 ### Latest posts
-- [GoReleaser v1.9 — the 10k stars release](https://blog.goreleaser.com/goreleaser-v1-9-the-10k-stars-release-1fe75597c53e?source=rss----17aa0cbd263f---4) (2 days ago)
+- [GoReleaser v1.9 — the 10k stars release](https://blog.goreleaser.com/goreleaser-v1-9-the-10k-stars-release-1fe75597c53e?source=rss----17aa0cbd263f---4) (3 days ago)
 - [GoReleaser v1.8.0 — The GOAMD64 release](https://blog.goreleaser.com/goreleaser-v1-8-0-the-goamd64-release-60586d18dbe4?source=rss----17aa0cbd263f---4) (1 month ago)
 - [GoReleaser And Software Supply Chain Security](https://blog.goreleaser.com/goreleaser-and-software-supply-chain-security-e8917b26924b?source=rss----17aa0cbd263f---4) (1 month ago)
