@@ -24,6 +24,6 @@ Finance:
 
 
 ### Latest posts
-- [Nightly builds with GoReleaser and GitHub Actions](https://blog.goreleaser.com/nightly-builds-with-goreleaser-and-github-actions-e08c078e4d0f?source=rss----17aa0cbd263f---4) (3 weeks ago)
+- [Nightly builds with GoReleaser and GitHub Actions](https://blog.goreleaser.com/nightly-builds-with-goreleaser-and-github-actions-e08c078e4d0f?source=rss----17aa0cbd263f---4) (4 weeks ago)
 - [GoReleaser v1.9 — the 10k stars release](https://blog.goreleaser.com/goreleaser-v1-9-the-10k-stars-release-1fe75597c53e?source=rss----17aa0cbd263f---4) (1 month ago)
 - [GoReleaser v1.8.0 — The GOAMD64 release](https://blog.goreleaser.com/goreleaser-v1-8-0-the-goamd64-release-60586d18dbe4?source=rss----17aa0cbd263f---4) (2 months ago)
