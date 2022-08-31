@@ -16,7 +16,7 @@
 {{- range rss "https://github.com/goreleaser/goreleaser-pro/releases.atom" 1 }}
 - GoReleaser [{{ .Title }}]({{ .URL }}) ([PRO](https://goreleaser.com/pro), _released {{ humanize .PublishedAt }}_)
 {{- end }}
-- [GoReleaser PRO Nightlies](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly)
+- GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
 {{- range rss "https://github.com/goreleaser/nfpm/releases.atom" 1 }}
 - nFPM [{{ .Title }}]({{ .URL }}) ([OSS](https://nfpm.goreleaser.com), _released {{ humanize .PublishedAt }}_)
 {{- end }}
