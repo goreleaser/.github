@@ -9,15 +9,16 @@
 [![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.11.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.1) ([OSS](https://github.com/goreleaser/goreleaser), _released today_)
-- GoReleaser [v1.11.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.1-pro) ([PRO](https://goreleaser.com/pro), _released today_)
+- GoReleaser [v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2) ([OSS](https://github.com/goreleaser/goreleaser), _released today_)
+- GoReleaser [v1.11.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.2-pro) ([PRO](https://goreleaser.com/pro), _released today_)
+- GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
 - nFPM [v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
-- GitHub Action for GoReleaser [v3.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.1.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 4 days ago_)
-- GoReleaser Azure DevOps Extension [v0.1.30](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.30) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 3 days ago_)
+- GitHub Action for GoReleaser [v3.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.1.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 5 days ago_)
+- GoReleaser Azure DevOps Extension [v0.1.30](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.30) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 4 days ago_)
 - GoReleaser Cross [v1.19.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.0) ([OSS](https://github.com/goreleaser/goreleaser-cross), _released 3 weeks ago_)
 
 
 ### Latest posts
-- [GoReleaser v1.11 — the hundred commits release](https://blog.goreleaser.com/goreleaser-v1-11-the-hundred-commits-release-aa06fc7caf8e?source=rss----17aa0cbd263f---4) (2 days ago)
+- [GoReleaser v1.11 — the hundred commits release](https://blog.goreleaser.com/goreleaser-v1-11-the-hundred-commits-release-aa06fc7caf8e?source=rss----17aa0cbd263f---4) (3 days ago)
 - [GoReleaser v1.10 — the summer release](https://blog.goreleaser.com/goreleaser-v1-10-the-summer-release-eb218e7a7ecf?source=rss----17aa0cbd263f---4) (1 month ago)
 - [Nightly builds with GoReleaser and GitHub Actions](https://blog.goreleaser.com/nightly-builds-with-goreleaser-and-github-actions-e08c078e4d0f?source=rss----17aa0cbd263f---4) (3 months ago)
