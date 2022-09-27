@@ -19,6 +19,6 @@
 
 
 ### Latest posts
-- [GoReleaser v1.11 — the hundred commits release](https://blog.goreleaser.com/goreleaser-v1-11-the-hundred-commits-release-aa06fc7caf8e?source=rss----17aa0cbd263f---4) (4 weeks ago)
+- [GoReleaser v1.11 — the hundred commits release](https://blog.goreleaser.com/goreleaser-v1-11-the-hundred-commits-release-aa06fc7caf8e?source=rss----17aa0cbd263f---4) (1 month ago)
 - [GoReleaser v1.10 — the summer release](https://blog.goreleaser.com/goreleaser-v1-10-the-summer-release-eb218e7a7ecf?source=rss----17aa0cbd263f---4) (2 months ago)
 - [Nightly builds with GoReleaser and GitHub Actions](https://blog.goreleaser.com/nightly-builds-with-goreleaser-and-github-actions-e08c078e4d0f?source=rss----17aa0cbd263f---4) (4 months ago)
