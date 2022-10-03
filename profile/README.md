@@ -10,7 +10,7 @@
 
 ### Latest releases
 - GoReleaser [v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 weeks ago_)
-- GoReleaser [v1.11.4-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.4-pro) ([PRO](https://goreleaser.com/pro), _released 2 weeks ago_)
+- GoReleaser [v1.11.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.5-pro) ([PRO](https://goreleaser.com/pro), _released today_)
 - GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
 - nFPM [v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) ([OSS](https://nfpm.goreleaser.com), _released 4 days ago_)
 - GitHub Action for GoReleaser [v3.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.1.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 1 month ago_)
