@@ -9,10 +9,10 @@
 [![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 days ago_)
-- GoReleaser [v1.11.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.5-pro) ([PRO](https://goreleaser.com/pro), _released 2 days ago_)
+- GoReleaser [v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) ([OSS](https://github.com/goreleaser/goreleaser), _released 3 days ago_)
+- GoReleaser [v1.11.5-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.11.5-pro) ([PRO](https://goreleaser.com/pro), _released 3 days ago_)
 - GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
-- nFPM [v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) ([OSS](https://nfpm.goreleaser.com), _released 6 days ago_)
+- nFPM [v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
 - GitHub Action for GoReleaser [v3.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.1.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 1 month ago_)
 - GoReleaser Azure DevOps Extension [v0.1.30](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.30) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 1 month ago_)
 - GoReleaser Cross [v1.19.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.1) ([OSS](https://github.com/goreleaser/goreleaser-cross), _released 2 weeks ago_)
