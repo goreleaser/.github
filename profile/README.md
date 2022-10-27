@@ -9,8 +9,8 @@
 [![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) ([OSS](https://github.com/goreleaser/goreleaser), _released 3 days ago_)
-- GoReleaser [v1.12.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.12.3-pro) ([PRO](https://goreleaser.com/pro), _released 3 days ago_)
+- GoReleaser [v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) ([OSS](https://github.com/goreleaser/goreleaser), _released 4 days ago_)
+- GoReleaser [v1.12.3-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.12.3-pro) ([PRO](https://goreleaser.com/pro), _released 4 days ago_)
 - GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
 - nFPM [v2.20.0](https://github.com/goreleaser/nfpm/releases/tag/v2.20.0) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
 - GitHub Action for GoReleaser [v3.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.2.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 1 week ago_)
@@ -20,5 +20,5 @@
 
 ### Latest posts
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://blog.goreleaser.com/announcing-goreleaser-v1-12-the-more-than-a-hundred-commits-release-ca50f097bc0a?source=rss----17aa0cbd263f---4) (1 week ago)
-- [GoReleaser v1.11 — the hundred commits release](https://blog.goreleaser.com/goreleaser-v1-11-the-hundred-commits-release-aa06fc7caf8e?source=rss----17aa0cbd263f---4) (1 month ago)
+- [GoReleaser v1.11 — the hundred commits release](https://blog.goreleaser.com/goreleaser-v1-11-the-hundred-commits-release-aa06fc7caf8e?source=rss----17aa0cbd263f---4) (2 months ago)
 - [GoReleaser v1.10 — the summer release](https://blog.goreleaser.com/goreleaser-v1-10-the-summer-release-eb218e7a7ecf?source=rss----17aa0cbd263f---4) (3 months ago)
