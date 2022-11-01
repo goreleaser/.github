@@ -19,6 +19,6 @@
 
 
 ### Latest posts
-- [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://blog.goreleaser.com/announcing-goreleaser-v1-12-the-more-than-a-hundred-commits-release-ca50f097bc0a?source=rss----17aa0cbd263f---4) (1 week ago)
+- [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://blog.goreleaser.com/announcing-goreleaser-v1-12-the-more-than-a-hundred-commits-release-ca50f097bc0a?source=rss----17aa0cbd263f---4) (2 weeks ago)
 - [GoReleaser v1.11 — the hundred commits release](https://blog.goreleaser.com/goreleaser-v1-11-the-hundred-commits-release-aa06fc7caf8e?source=rss----17aa0cbd263f---4) (2 months ago)
-- [GoReleaser v1.10 — the summer release](https://blog.goreleaser.com/goreleaser-v1-10-the-summer-release-eb218e7a7ecf?source=rss----17aa0cbd263f---4) (3 months ago)
+- [GoReleaser v1.10 — the summer release](https://blog.goreleaser.com/goreleaser-v1-10-the-summer-release-eb218e7a7ecf?source=rss----17aa0cbd263f---4) (4 months ago)
