@@ -9,8 +9,8 @@
 [![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 1 day ago_)
-- GoReleaser [v1.14.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.14.0-pro) ([PRO](https://goreleaser.com/pro), _released 1 day ago_)
+- GoReleaser [v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 days ago_)
+- GoReleaser [v1.14.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.14.0-pro) ([PRO](https://goreleaser.com/pro), _released 2 days ago_)
 - GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
 - nFPM [v2.22.2](https://github.com/goreleaser/nfpm/releases/tag/v2.22.2) ([OSS](https://nfpm.goreleaser.com), _released 4 weeks ago_)
 - GitHub Action for GoReleaser [v4.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.1.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 2 weeks ago_)
@@ -19,6 +19,6 @@
 
 
 ### Latest posts
-- [Announcing GoReleaser v1.14 — the Christmas release](https://blog.goreleaser.com/announcing-goreleaser-v1-14-the-christmas-release-66923260188c?source=rss----17aa0cbd263f---4) (1 day ago)
+- [Announcing GoReleaser v1.14 — the Christmas release](https://blog.goreleaser.com/announcing-goreleaser-v1-14-the-christmas-release-66923260188c?source=rss----17aa0cbd263f---4) (2 days ago)
 - [GoReleaser v1.13 — the November release](https://blog.goreleaser.com/goreleaser-v1-13-the-november-release-488dc17a55a0?source=rss----17aa0cbd263f---4) (1 month ago)
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://blog.goreleaser.com/announcing-goreleaser-v1-12-the-more-than-a-hundred-commits-release-ca50f097bc0a?source=rss----17aa0cbd263f---4) (2 months ago)
