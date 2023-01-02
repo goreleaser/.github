@@ -9,16 +9,16 @@
 [![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 5 days ago_)
-- GoReleaser [v1.14.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.14.0-pro) ([PRO](https://goreleaser.com/pro), _released 5 days ago_)
+- GoReleaser [v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0) ([OSS](https://github.com/goreleaser/goreleaser), _released 6 days ago_)
+- GoReleaser [v1.14.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.14.0-pro) ([PRO](https://goreleaser.com/pro), _released 6 days ago_)
 - GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
-- nFPM [v2.23.0](https://github.com/goreleaser/nfpm/releases/tag/v2.23.0) ([OSS](https://nfpm.goreleaser.com), _released 2 days ago_)
+- nFPM [v2.23.0](https://github.com/goreleaser/nfpm/releases/tag/v2.23.0) ([OSS](https://nfpm.goreleaser.com), _released 3 days ago_)
 - GitHub Action for GoReleaser [v4.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.1.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 2 weeks ago_)
 - GoReleaser Azure DevOps Extension [v0.1.35](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.35) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 2 months ago_)
 - GoReleaser Cross [v1.19.4](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.19.4) ([OSS](https://github.com/goreleaser/goreleaser-cross), _released 3 weeks ago_)
 
 
 ### Latest posts
-- [Announcing GoReleaser v1.14 — the Christmas release](https://blog.goreleaser.com/announcing-goreleaser-v1-14-the-christmas-release-66923260188c?source=rss----17aa0cbd263f---4) (5 days ago)
+- [Announcing GoReleaser v1.14 — the Christmas release](https://blog.goreleaser.com/announcing-goreleaser-v1-14-the-christmas-release-66923260188c?source=rss----17aa0cbd263f---4) (6 days ago)
 - [GoReleaser v1.13 — the November release](https://blog.goreleaser.com/goreleaser-v1-13-the-november-release-488dc17a55a0?source=rss----17aa0cbd263f---4) (1 month ago)
 - [Announcing GoReleaser v1.12 — the more-than-a-hundred commits release](https://blog.goreleaser.com/announcing-goreleaser-v1-12-the-more-than-a-hundred-commits-release-ca50f097bc0a?source=rss----17aa0cbd263f---4) (2 months ago)
