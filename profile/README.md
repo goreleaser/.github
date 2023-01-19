@@ -21,4 +21,4 @@
 ### Latest posts
 - [Releasing multi-platform container images with GoReleaser in Azure DevOps](https://blog.goreleaser.com/releasing-multi-platform-container-images-with-goreleaser-in-azure-devops-d8916df4250a?source=rss----17aa0cbd263f---4) (1 week ago)
 - [Announcing GoReleaser v1.14 — the Christmas release](https://blog.goreleaser.com/announcing-goreleaser-v1-14-the-christmas-release-66923260188c?source=rss----17aa0cbd263f---4) (3 weeks ago)
-- [GoReleaser v1.13 — the November release](https://blog.goreleaser.com/goreleaser-v1-13-the-november-release-488dc17a55a0?source=rss----17aa0cbd263f---4) (1 month ago)
+- [GoReleaser v1.13 — the November release](https://blog.goreleaser.com/goreleaser-v1-13-the-november-release-488dc17a55a0?source=rss----17aa0cbd263f---4) (2 months ago)
