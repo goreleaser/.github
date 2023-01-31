@@ -9,7 +9,7 @@
 [![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) ([OSS](https://github.com/goreleaser/goreleaser), _released 4 weeks ago_)
+- GoReleaser [v1.15.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.0) ([OSS](https://github.com/goreleaser/goreleaser), _released today_)
 - GoReleaser [v1.15.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.15.0-pro) ([PRO](https://goreleaser.com/pro), _released today_)
 - GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
 - nFPM [v2.24.0](https://github.com/goreleaser/nfpm/releases/tag/v2.24.0) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
@@ -19,6 +19,6 @@
 
 
 ### Latest posts
+- [Announcing GoReleaser v1.15 — the first of 2023](https://blog.goreleaser.com/announcing-goreleaser-v1-15-the-first-of-2023-bfa38b96f01c?source=rss----17aa0cbd263f---4) (today)
 - [Fast and Furious Building OCI compatible Container Images with GoReleaser and ko](https://blog.goreleaser.com/fast-and-furious-building-oci-compatible-container-images-with-goreleaser-and-ko-77d9378c4130?source=rss----17aa0cbd263f---4) (1 day ago)
 - [Releasing multi-platform container images with GoReleaser in Azure DevOps](https://blog.goreleaser.com/releasing-multi-platform-container-images-with-goreleaser-in-azure-devops-d8916df4250a?source=rss----17aa0cbd263f---4) (3 weeks ago)
-- [Announcing GoReleaser v1.14 — the Christmas release](https://blog.goreleaser.com/announcing-goreleaser-v1-14-the-christmas-release-66923260188c?source=rss----17aa0cbd263f---4) (1 month ago)
