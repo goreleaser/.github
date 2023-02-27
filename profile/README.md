@@ -13,12 +13,12 @@
 - GoReleaser [v1.15.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.15.2-pro) ([PRO](https://goreleaser.com/pro), _released 2 weeks ago_)
 - GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
 - nFPM [v2.26.0](https://github.com/goreleaser/nfpm/releases/tag/v2.26.0) ([OSS](https://nfpm.goreleaser.com), _released 2 weeks ago_)
-- GitHub Action for GoReleaser [v4.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.2.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 3 weeks ago_)
+- GitHub Action for GoReleaser [v4.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.2.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 4 weeks ago_)
 - GoReleaser Azure DevOps Extension [v0.1.37](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.37) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 2 weeks ago_)
 - GoReleaser Cross [v1.20.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.0) ([OSS](https://github.com/goreleaser/goreleaser-cross), _released 1 week ago_)
 
 
 ### Latest posts
 - [Announcing GoReleaser v1.15 — the first of 2023](https://blog.goreleaser.com/announcing-goreleaser-v1-15-the-first-of-2023-bfa38b96f01c?source=rss----17aa0cbd263f---4) (3 weeks ago)
-- [Fast and Furious Building OCI compatible Container Images with GoReleaser and ko](https://blog.goreleaser.com/fast-and-furious-building-oci-compatible-container-images-with-goreleaser-and-ko-77d9378c4130?source=rss----17aa0cbd263f---4) (3 weeks ago)
+- [Fast and Furious Building OCI compatible Container Images with GoReleaser and ko](https://blog.goreleaser.com/fast-and-furious-building-oci-compatible-container-images-with-goreleaser-and-ko-77d9378c4130?source=rss----17aa0cbd263f---4) (4 weeks ago)
 - [Releasing multi-platform container images with GoReleaser in Azure DevOps](https://blog.goreleaser.com/releasing-multi-platform-container-images-with-goreleaser-in-azure-devops-d8916df4250a?source=rss----17aa0cbd263f---4) (1 month ago)
