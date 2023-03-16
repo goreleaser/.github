@@ -9,8 +9,8 @@
 [![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.16.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.1) ([OSS](https://github.com/goreleaser/goreleaser), _released 5 days ago_)
-- GoReleaser [v1.16.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.16.1-pro) ([PRO](https://goreleaser.com/pro), _released 5 days ago_)
+- GoReleaser [v1.16.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.1) ([OSS](https://github.com/goreleaser/goreleaser), _released 6 days ago_)
+- GoReleaser [v1.16.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.16.1-pro) ([PRO](https://goreleaser.com/pro), _released 6 days ago_)
 - GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
 - nFPM [v2.26.0](https://github.com/goreleaser/nfpm/releases/tag/v2.26.0) ([OSS](https://nfpm.goreleaser.com), _released 1 month ago_)
 - GitHub Action for GoReleaser [v4.2.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.2.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 1 month ago_)
