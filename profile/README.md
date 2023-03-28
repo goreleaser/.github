@@ -19,6 +19,6 @@
 
 
 ### Latest posts
-- [Announcing GoReleaser v1.16 — the late February release](https://blog.goreleaser.com/announcing-goreleaser-v1-16-the-late-february-release-d4aa6cd35e09?source=rss----17aa0cbd263f---4) (2 weeks ago)
+- [Announcing GoReleaser v1.16 — the late February release](https://blog.goreleaser.com/announcing-goreleaser-v1-16-the-late-february-release-d4aa6cd35e09?source=rss----17aa0cbd263f---4) (3 weeks ago)
 - [Announcing GoReleaser v1.15 — the first of 2023](https://blog.goreleaser.com/announcing-goreleaser-v1-15-the-first-of-2023-bfa38b96f01c?source=rss----17aa0cbd263f---4) (1 month ago)
 - [Fast and Furious Building OCI compatible Container Images with GoReleaser and ko](https://blog.goreleaser.com/fast-and-furious-building-oci-compatible-container-images-with-goreleaser-and-ko-77d9378c4130?source=rss----17aa0cbd263f---4) (1 month ago)
