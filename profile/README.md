@@ -9,8 +9,8 @@
 [![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2) ([OSS](https://github.com/goreleaser/goreleaser), _released 1 month ago_)
-- GoReleaser [v1.18.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.18.2-pro) ([PRO](https://goreleaser.com/pro), _released 1 month ago_)
+- GoReleaser [v1.19.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.0) ([OSS](https://github.com/goreleaser/goreleaser), _released today_)
+- GoReleaser [v1.19.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.19.0-pro) ([PRO](https://goreleaser.com/pro), _released today_)
 - GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
 - nFPM [v2.31.0](https://github.com/goreleaser/nfpm/releases/tag/v2.31.0) ([OSS](https://nfpm.goreleaser.com), _released 3 days ago_)
 - GitHub Action for GoReleaser [v4.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.3.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 2 weeks ago_)
@@ -19,6 +19,6 @@
 
 
 ### Latest posts
+- [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (today)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://blog.goreleaser.com/announcing-goreleaser-v1-18-the-maintainers-month-release-f692091a57ec?source=rss----17aa0cbd263f---4) (1 month ago)
 - [Announcing GoReleaser v1.17 — the late Easter release](https://blog.goreleaser.com/announcing-goreleaser-v1-17-the-late-easter-release-2118019b91e3?source=rss----17aa0cbd263f---4) (2 months ago)
-- [Announcing GoReleaser v1.16 — the late February release](https://blog.goreleaser.com/announcing-goreleaser-v1-16-the-late-february-release-d4aa6cd35e09?source=rss----17aa0cbd263f---4) (3 months ago)
