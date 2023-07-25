@@ -4,18 +4,23 @@
 [![Join Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RGEBtg8vQ6)
 [![Signup to our newsletter](https://img.shields.io/badge/news-E15718?style=for-the-badge&logo=revue&logoColor=white)](https://www.getrevue.co/profile/goreleaser)
 [![Follow on Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/goreleaser)
+[![Follow on Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@goreleaser)
 [![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/goreleaser?logo=opencollective&style=for-the-badge)](https://opencollective.com/goreleaser)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/caarlos0?logo=github&style=for-the-badge)](https://github.com/sponsors/caarlos0)
-[![Pro License](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
+[![Become Pro](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
 
 ### Latest releases
-- GoReleaser [v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) ([OSS](https://github.com/goreleaser/goreleaser), _released 2 weeks ago_)
-- GoReleaser [v1.19.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.19.2-pro) ([PRO](https://goreleaser.com/pro), _released 2 weeks ago_)
-- GoReleaser [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) ([PRO](https://goreleaser.com/pro))
-- nFPM [v2.32.0](https://github.com/goreleaser/nfpm/releases/tag/v2.32.0) ([OSS](https://nfpm.goreleaser.com), _released 1 week ago_)
-- GitHub Action for GoReleaser [v4.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.3.0) ([OSS](https://github.com/goreleaser/goreleaser-action), _released 1 month ago_)
-- GoReleaser Azure DevOps Extension [v0.1.39](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.39) ([OSS](https://github.com/goreleaser/goreleaser-azure-devops-extension), _released 1 week ago_)
-- GoReleaser Cross [v1.20.6](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.6) ([OSS](https://github.com/goreleaser/goreleaser-cross), _released 1 week ago_)
+
+
+| Project                           | Release                                                                                         | Time        |
+| --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
+| GoReleaser | [v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) | 2 weeks ago |
+| GoReleaser Pro | [v1.19.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.19.2-pro) | 2 weeks ago |
+| GoReleaser Pro | [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | |
+| nFPM | [v2.32.0](https://github.com/goreleaser/nfpm/releases/tag/v2.32.0) | 1 week ago |
+| GoReleaser GitHub Action | [v4.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.3.0) | 1 month ago |
+| GoReleaser Azure DevOps Extension | [v0.1.39](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.39) | 1 week ago |
+| GoReleaser Cross | [v1.20.6](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.20.6) | 1 week ago |
 
 
 ### Latest posts
