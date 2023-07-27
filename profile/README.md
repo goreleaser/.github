@@ -24,6 +24,6 @@
 
 
 ### Latest posts
-- [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (3 weeks ago)
+- [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (4 weeks ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://blog.goreleaser.com/announcing-goreleaser-v1-18-the-maintainers-month-release-f692091a57ec?source=rss----17aa0cbd263f---4) (2 months ago)
 - [Announcing GoReleaser v1.17 — the late Easter release](https://blog.goreleaser.com/announcing-goreleaser-v1-17-the-late-easter-release-2118019b91e3?source=rss----17aa0cbd263f---4) (3 months ago)
