@@ -10,17 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - uses: muesli/readme-scribe@master
+      - uses: actions/setup-go@v4
+      - run: |
+          go install github.com/caarlos0/markscribe@tmp
+          markscribe -write ./profile/README.md templates/profile.tpl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          template: "templates/profile.tpl"
-          writeTo: "profile/README.md"
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: 'docs: Update generated README'
+          commit_message: "docs: Update generated README"
           branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com

@@ -14,14 +14,18 @@
 
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
-{{- range rss "https://github.com/goreleaser/goreleaser/releases.atom" 1 }}
-| GoReleaser | [{{ .Title }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
+{{- range repoRecentReleases "goreleaser" "goreleaser" 1 }}
+| GoReleaser | [{{ .Name }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
 {{- end }}
-| GoReleaser | [nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | |
-{{- range rss "https://github.com/goreleaser/goreleaser-pro/releases.atom" 1 }}
-| GoReleaser Pro | [{{ .Title }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
+{{- range repoRecentPreReleases "goreleaser" "goreleaser" 1 }}
+| GoReleaser | [{{ .Name }}]({{ .URL }}) | {{ humanize .CreatedAt }} |
 {{- end }}
-| GoReleaser Pro | [nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | |
+{{- range repoRecentReleases "goreleaser" "goreleaser-pro" 1 }}
+| GoReleaser Pro | [{{ .Name }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
+{{- end }}
+{{- range repoRecentPreReleases "goreleaser" "goreleaser-pro" 1 }}
+| GoReleaser Pro | [{{ .Name }}]({{ .URL }}) | {{ humanize .CreatedAt }} |
+{{- end }}
 {{- range rss "https://github.com/goreleaser/nfpm/releases.atom" 1 }}
 | nFPM | [{{ .Title }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
 {{- end }}
