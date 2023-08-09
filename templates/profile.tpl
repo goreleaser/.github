@@ -17,6 +17,7 @@
 {{- range rss "https://github.com/goreleaser/goreleaser/releases.atom" 1 }}
 | GoReleaser | [{{ .Title }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
 {{- end }}
+| GoReleaser | [nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | |
 {{- range rss "https://github.com/goreleaser/goreleaser-pro/releases.atom" 1 }}
 | GoReleaser Pro | [{{ .Title }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
 {{- end }}
