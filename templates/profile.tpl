@@ -18,13 +18,13 @@
 | GoReleaser | [{{ .Name }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
 {{- end }}
 {{- range repoRecentPreReleases "goreleaser" "goreleaser" 1 }}
-| GoReleaser | [{{ .Name }}]({{ .URL }}) | {{ humanize .CreatedAt }} |
+| GoReleaser | [{{ .Name }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
 {{- end }}
 {{- range repoRecentReleases "goreleaser" "goreleaser-pro" 1 }}
 | GoReleaser Pro | [{{ .Name }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
 {{- end }}
 {{- range repoRecentPreReleases "goreleaser" "goreleaser-pro" 1 }}
-| GoReleaser Pro | [{{ .Name }}]({{ .URL }}) | {{ humanize .CreatedAt }} |
+| GoReleaser Pro | [{{ .Name }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
 {{- end }}
 {{- range rss "https://github.com/goreleaser/nfpm/releases.atom" 1 }}
 | nFPM | [{{ .Title }}]({{ .URL }}) | {{ humanize .PublishedAt }} |
