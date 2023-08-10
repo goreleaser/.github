@@ -14,9 +14,9 @@
 
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
-| GoReleaser | [v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) | 1 month ago |
-| GoReleaser | [v1.20.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 1 day ago |
-| GoReleaser Pro | [v1.19.2-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.19.2-pro) | 1 month ago |
+| GoReleaser | [v1.20.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.20.0) | today |
+| GoReleaser | [v1.20.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | today |
+| GoReleaser Pro | [v1.20.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.20.0-pro) | today |
 | GoReleaser Pro | [v1.20.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 1 day ago |
 | nFPM | [v2.32.0](https://github.com/goreleaser/nfpm/releases/tag/v2.32.0) | 3 weeks ago |
 | GoReleaser GitHub Action | [v4.4.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.4.0) | 1 day ago |
@@ -25,6 +25,6 @@
 
 
 ### Latest posts
+- [Announcing GoReleaser v1.20 — a quality-of-life release](https://blog.goreleaser.com/announcing-goreleaser-v1-20-a-quality-of-life-release-1d5f847e87ed?source=rss----17aa0cbd263f---4) (today)
 - [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (1 month ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://blog.goreleaser.com/announcing-goreleaser-v1-18-the-maintainers-month-release-f692091a57ec?source=rss----17aa0cbd263f---4) (3 months ago)
-- [Announcing GoReleaser v1.17 — the late Easter release](https://blog.goreleaser.com/announcing-goreleaser-v1-17-the-late-easter-release-2118019b91e3?source=rss----17aa0cbd263f---4) (4 months ago)
