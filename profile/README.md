@@ -15,7 +15,7 @@
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | GoReleaser | [v1.22.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.22.1) | 2 weeks ago |
-| GoReleaser | [v1.23.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 2 days ago |
+| GoReleaser | [v1.23.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 3 days ago |
 | GoReleaser Pro | [v1.22.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.22.1-pro) | 2 weeks ago |
 | GoReleaser Pro | [v1.23.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 1 week ago |
 | nFPM | [v2.34.0](https://github.com/goreleaser/nfpm/releases/tag/v2.34.0) | 4 weeks ago |
@@ -26,5 +26,5 @@
 
 ### Latest posts
 - [Announcing GoReleaser v1.20 — a quality-of-life release](https://blog.goreleaser.com/announcing-goreleaser-v1-20-a-quality-of-life-release-1d5f847e87ed?source=rss----17aa0cbd263f---4) (3 months ago)
-- [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (4 months ago)
+- [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (5 months ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://blog.goreleaser.com/announcing-goreleaser-v1-18-the-maintainers-month-release-f692091a57ec?source=rss----17aa0cbd263f---4) (6 months ago)
