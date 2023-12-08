@@ -15,16 +15,16 @@
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | GoReleaser | [v1.22.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.22.1) | 4 weeks ago |
-| GoReleaser | [v1.23.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | today |
-| GoReleaser Pro | [v1.22.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.22.1-pro) | 4 weeks ago |
-| GoReleaser Pro | [v1.23.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 1 day ago |
+| GoReleaser | [v1.23.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 1 day ago |
+| GoReleaser Pro | [v1.22.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.22.1-pro) | 1 month ago |
+| GoReleaser Pro | [v1.23.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 2 days ago |
 | nFPM | [v2.34.0](https://github.com/goreleaser/nfpm/releases/tag/v2.34.0) | 1 month ago |
 | GoReleaser GitHub Action | [v5.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v5.0.0) | 2 months ago |
 | GoReleaser Azure DevOps Extension | [v0.1.42](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.42) | 1 month ago |
-| GoReleaser Cross | [v1.21.5](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.21.5) | 1 day ago |
+| GoReleaser Cross | [v1.21.5](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.21.5) | 2 days ago |
 
 
 ### Latest posts
-- [Announcing GoReleaser v1.20 — a quality-of-life release](https://blog.goreleaser.com/announcing-goreleaser-v1-20-a-quality-of-life-release-1d5f847e87ed?source=rss----17aa0cbd263f---4) (3 months ago)
+- [Announcing GoReleaser v1.20 — a quality-of-life release](https://blog.goreleaser.com/announcing-goreleaser-v1-20-a-quality-of-life-release-1d5f847e87ed?source=rss----17aa0cbd263f---4) (4 months ago)
 - [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (5 months ago)
 - [Announcing GoReleaser v1.18 — the maintainers month release](https://blog.goreleaser.com/announcing-goreleaser-v1-18-the-maintainers-month-release-f692091a57ec?source=rss----17aa0cbd263f---4) (7 months ago)
