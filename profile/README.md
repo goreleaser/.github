@@ -14,9 +14,9 @@
 
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
-| GoReleaser | [v1.24.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.24.0) | 2 weeks ago |
-| GoReleaser | [v1.25.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 3 days ago |
-| GoReleaser Pro | [v1.24.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.24.0-pro) | 2 weeks ago |
+| GoReleaser | [v1.24.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.24.0) | 3 weeks ago |
+| GoReleaser | [v1.25.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 4 days ago |
+| GoReleaser Pro | [v1.24.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.24.0-pro) | 3 weeks ago |
 | GoReleaser Pro | [v1.25.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 2 weeks ago |
 | nFPM | [v2.35.3](https://github.com/goreleaser/nfpm/releases/tag/v2.35.3) | 3 weeks ago |
 | GoReleaser GitHub Action | [v5.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v5.0.0) | 5 months ago |
