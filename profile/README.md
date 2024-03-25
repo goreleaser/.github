@@ -15,9 +15,9 @@
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | GoReleaser | [v1.24.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.24.0) | 1 month ago |
-| GoReleaser | [v1.25.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 3 days ago |
+| GoReleaser | [v1.25.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 4 days ago |
 | GoReleaser Pro | [v1.24.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.24.0-pro) | 1 month ago |
-| GoReleaser Pro | [v1.25.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 4 days ago |
+| GoReleaser Pro | [v1.25.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 5 days ago |
 | nFPM | [v2.35.3](https://github.com/goreleaser/nfpm/releases/tag/v2.35.3) | 1 month ago |
 | GoReleaser GitHub Action | [v5.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v5.0.0) | 6 months ago |
 | GoReleaser Azure DevOps Extension | [v0.1.42](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.42) | 4 months ago |
@@ -27,4 +27,4 @@
 ### Latest posts
 - [Deprecated](https://blog.goreleaser.com/deprecated-2c73be35b208?source=rss----17aa0cbd263f---4) (1 month ago)
 - [Announcing GoReleaser v1.20 — a quality-of-life release](https://blog.goreleaser.com/announcing-goreleaser-v1-20-a-quality-of-life-release-1d5f847e87ed?source=rss----17aa0cbd263f---4) (7 months ago)
-- [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (8 months ago)
+- [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (9 months ago)
