@@ -14,14 +14,14 @@
 
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
-| GoReleaser | [v1.26.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.26.1) | today |
-| GoReleaser | [v1.26.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 6 days ago |
-| GoReleaser Pro | [v1.26.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.26.1-pro) | today |
-| GoReleaser Pro | [v1.27.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | today |
-| nFPM | [v2.37.1](https://github.com/goreleaser/nfpm/releases/tag/v2.37.1) | 6 days ago |
-| GoReleaser GitHub Action | [v5.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v5.1.0) | 5 days ago |
+| GoReleaser | [v1.26.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.26.1) | 1 day ago |
+| GoReleaser | [v1.26.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 1 week ago |
+| GoReleaser Pro | [v1.26.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v1.26.1-pro) | 1 day ago |
+| GoReleaser Pro | [v1.27.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 1 day ago |
+| nFPM | [v2.37.1](https://github.com/goreleaser/nfpm/releases/tag/v2.37.1) | 1 week ago |
+| GoReleaser GitHub Action | [v5.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v5.1.0) | 6 days ago |
 | GoReleaser Azure DevOps Extension | [v0.1.42](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.42) | 6 months ago |
-| GoReleaser Cross | [v1.22.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.22.3) | 6 days ago |
+| GoReleaser Cross | [v1.22.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.22.3) | 1 week ago |
 
 
 ### Latest posts
