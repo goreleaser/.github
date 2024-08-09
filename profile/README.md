@@ -15,9 +15,9 @@
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | GoReleaser | [v2.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.1.0) | 3 weeks ago |
-| GoReleaser | [v2.2.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | today |
+| GoReleaser | [v2.2.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 1 day ago |
 | GoReleaser Pro | [v2.1.0-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v2.1.0-pro) | 3 weeks ago |
-| GoReleaser Pro | [v2.2.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 1 day ago |
+| GoReleaser Pro | [v2.2.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 2 days ago |
 | nFPM | [v2.38.0](https://github.com/goreleaser/nfpm/releases/tag/v2.38.0) | 1 month ago |
 | GoReleaser GitHub Action | [v6.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.0.0) | 2 months ago |
 | GoReleaser Azure DevOps Extension | [v0.1.45](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.45) | 1 month ago |
