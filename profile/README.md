@@ -14,9 +14,9 @@
 
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
-| GoReleaser | [v2.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v2.6.1) | 6 days ago |
-| GoReleaser | [v2.7.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | today |
-| GoReleaser Pro | [v2.6.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v2.6.1-pro) | 6 days ago |
+| GoReleaser | [v2.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v2.6.1) | 1 week ago |
+| GoReleaser | [v2.7.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | 1 day ago |
+| GoReleaser Pro | [v2.6.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v2.6.1-pro) | 1 week ago |
 | GoReleaser Pro | [v2.7.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 1 day ago |
 | nFPM | [v2.41.2](https://github.com/goreleaser/nfpm/releases/tag/v2.41.2) | 2 weeks ago |
 | GoReleaser GitHub Action | [v6.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.1.0) | 2 months ago |
@@ -25,6 +25,6 @@
 
 
 ### Latest posts
-- [Deprecated](https://blog.goreleaser.com/deprecated-2c73be35b208?source=rss----17aa0cbd263f---4) (11 months ago)
+- [Deprecated](https://blog.goreleaser.com/deprecated-2c73be35b208?source=rss----17aa0cbd263f---4) (1 year ago)
 - [Announcing GoReleaser v1.20 — a quality-of-life release](https://blog.goreleaser.com/announcing-goreleaser-v1-20-a-quality-of-life-release-1d5f847e87ed?source=rss----17aa0cbd263f---4) (1 year ago)
 - [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (2 years ago)
