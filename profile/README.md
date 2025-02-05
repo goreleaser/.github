@@ -1,30 +1,29 @@
-## GoReleaser
+<h2 align="center">
+  <img alt="GoReleaser Logo" src="https://avatars2.githubusercontent.com/u/24697112?v=3&s=200" height="160" /><br />
+	GoReleaser
+</h2>
+<p align="center">Release engineering, <b>simplified</b>.</p>
 
-[![Visit our website](https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goreleaser.com)
-[![Join Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RGEBtg8vQ6)
-[![Follow on Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/goreleaser)
-[![Follow on Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@goreleaser)
+&nbsp;
 
-[![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/goreleaser?logo=opencollective&style=for-the-badge)](https://opencollective.com/goreleaser)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/caarlos0?logo=github&style=for-the-badge)](https://github.com/sponsors/caarlos0)
-[![Become Pro](https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white)](https://goreleaser.com/pro)
+<p align="center">
+  <a href="https://github.com/goreleaser/goreleaser/stargazers"><img src="https://img.shields.io/github/stars/goreleaser?style=for-the-badge" alt="Stars"></a>
+  <a href="https://github.com/search?q=user%3Agoreleaser++&type=issues&state=open"><img src="https://img.shields.io/github/issues-search?query=user%3Agoreleaser%20is%3Aopen&style=for-the-badge&logo=GitHub&label=Open%20Issues" alt="Open Issues"></a>
+  <a href="./releases.md"><img src="https://img.shields.io/github/v/release/goreleaser/goreleaser?style=for-the-badge&logo=github&label=Releases" alt="Releases"></a>
+  <a href="./news.md"><img src="https://img.shields.io/badge/news-FD415E?style=for-the-badge&logo=applenews&logoColor=white" alt="News"></a>
+</p>
 
-### Latest releases
+<h5 align="center">Join the community:</h5>
+<p align="center">
+  <a href="https://discord.gg/RGEBtg8vQ6"><img src="https://img.shields.io/discord/890434333251362866?style=for-the-badge&logo=discord&logoColor=white&labelColor=555555&color=5865F2" alt="Join Discord"></a>
+  <a href="https://twitter.com/goreleaser"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter"></a>
+  <a href="https://fosstodon.org/@goreleaser"><img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Follow on Mastodon"></a>
+  <a href="https://goreleaser.com"><img src="https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit our website"></a>
+</p>
 
-
-| Project                           | Release                                                                                         | Time        |
-| --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
-| GoReleaser | [v2.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v2.6.1) | 2 weeks ago |
-| GoReleaser | [v2.7.0-nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) | today |
-| GoReleaser Pro | [v2.6.1-pro](https://github.com/goreleaser/goreleaser-pro/releases/tag/v2.6.1-pro) | 2 weeks ago |
-| GoReleaser Pro | [v2.7.0-pro-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/nightly) | 1 day ago |
-| nFPM | [v2.41.2](https://github.com/goreleaser/nfpm/releases/tag/v2.41.2) | 3 weeks ago |
-| GoReleaser GitHub Action | [v6.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.1.0) | 3 months ago |
-| GoReleaser Azure DevOps Extension | [v0.1.46](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.46) | 4 months ago |
-| GoReleaser Cross | [v1.24.0](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.24.0) | 1 month ago |
-
-
-### Latest posts
-- [Deprecated](https://blog.goreleaser.com/deprecated-2c73be35b208?source=rss----17aa0cbd263f---4) (1 year ago)
-- [Announcing GoReleaser v1.20 — a quality-of-life release](https://blog.goreleaser.com/announcing-goreleaser-v1-20-a-quality-of-life-release-1d5f847e87ed?source=rss----17aa0cbd263f---4) (2 years ago)
-- [Announcing GoReleaser v1.19 — the big release](https://blog.goreleaser.com/announcing-goreleaser-v1-19-the-big-release-b01565c72658?source=rss----17aa0cbd263f---4) (2 years ago)
+<h5 align="center">Help us make it happen!</h5>
+  <p align="center">
+  <a href="https://opencollective.com/goreleaser"><img src="https://img.shields.io/opencollective/all/goreleaser?logo=opencollective&style=for-the-badge" alt="Open Collective backers and sponsors"></a>
+  <a href="https://github.com/sponsors/caarlos0"><img src="https://img.shields.io/github/sponsors/caarlos0?logo=github&style=for-the-badge" alt="GitHub Sponsors"></a>
+  <a href="https://goreleaser.com/pro"><img src="https://img.shields.io/badge/pro_license-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white" alt="Become Pro"></a>
+</p>

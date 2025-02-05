@@ -13,7 +13,8 @@ jobs:
       - uses: actions/setup-go@v4
       - run: |
           go install github.com/caarlos0/markscribe@tmp
-          markscribe -write ./profile/README.md templates/profile.tpl
+          markscribe -write ./profile/releases.md templates/releases.tpl
+          markscribe -write ./profile/news.md templates/news.tpl
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v4
