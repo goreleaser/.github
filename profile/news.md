@@ -4,7 +4,7 @@
 - [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://goreleaser.com/blog/goreleaser-v2.5/) (1 month ago)
 - [Announcing GoReleaser v2.4](https://goreleaser.com/blog/goreleaser-v2.4/) (3 months ago)
 - [Announcing GoReleaser v2.3](https://goreleaser.com/blog/goreleaser-v2.3/) (5 months ago)
-- [Announcing GoReleaser v2.2](https://goreleaser.com/blog/goreleaser-v2.2/) (5 months ago)
+- [Announcing GoReleaser v2.2](https://goreleaser.com/blog/goreleaser-v2.2/) (6 months ago)
 - [Announcing GoReleaser v2.1](https://goreleaser.com/blog/goreleaser-v2.1/) (7 months ago)
 - [Announcing GoReleaser v2](https://goreleaser.com/blog/goreleaser-v2/) (8 months ago)
 - [Announcing GoReleaser v1.26 - The last v1, probably](https://goreleaser.com/blog/goreleaser-v1.26/) (9 months ago)
