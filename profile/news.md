@@ -1,5 +1,5 @@
 # News
-- [Announcing GoReleaser v2.7](https://goreleaser.com/blog/goreleaser-v2.7/) (5 days ago)
+- [Announcing GoReleaser v2.7](https://goreleaser.com/blog/goreleaser-v2.7/) (6 days ago)
 - [Announcing GoReleaser v2.6](https://goreleaser.com/blog/goreleaser-v2.6/) (3 weeks ago)
 - [Using GoReleaser and GitHub Actions to release Rust and Zig projects](https://goreleaser.com/blog/rust-zig/) (1 month ago)
 - [Announcing GoReleaser v2.5 - multi languages, 9th anniversary edition](https://goreleaser.com/blog/goreleaser-v2.5/) (2 months ago)
