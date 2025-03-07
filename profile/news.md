@@ -8,4 +8,4 @@
 - [Announcing GoReleaser v2.2](https://goreleaser.com/blog/goreleaser-v2.2/) (6 months ago)
 - [Announcing GoReleaser v2.1](https://goreleaser.com/blog/goreleaser-v2.1/) (7 months ago)
 - [Announcing GoReleaser v2](https://goreleaser.com/blog/goreleaser-v2/) (9 months ago)
-- [Announcing GoReleaser v1.26 - The last v1, probably](https://goreleaser.com/blog/goreleaser-v1.26/) (9 months ago)
+- [Announcing GoReleaser v1.26 - The last v1, probably](https://goreleaser.com/blog/goreleaser-v1.26/) (10 months ago)
