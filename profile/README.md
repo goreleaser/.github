@@ -16,7 +16,7 @@
 <h5 align="center">Join the community:</h5>
 <p align="center">
   <a href="https://discord.gg/RGEBtg8vQ6"><img src="https://img.shields.io/discord/890434333251362866?style=for-the-badge&logo=discord&logoColor=white&labelColor=555555&color=5865F2" alt="Join Discord"></a>
-  <a href="https://twitter.com/goreleaser"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter"></a>
+  <a href="https://x.com/goreleaser"><img src="https://img.shields.io/badge/twitter-1c9cf1?style=for-the-badge&logo=x&logoColor=white" alt="Follow on 𝕏 (formerly Twitter)"></a>
   <a href="https://fosstodon.org/@goreleaser"><img src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Follow on Mastodon"></a>
   <a href="https://goreleaser.com"><img src="https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit our website"></a>
 </p>
