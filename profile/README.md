@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://github.com/goreleaser/goreleaser/stargazers"><img src="https://img.shields.io/github/stars/goreleaser?style=for-the-badge" alt="Stars"></a>
   <a href="https://github.com/search?q=user%3Agoreleaser++&type=issues&state=open"><img src="https://img.shields.io/github/issues-search?query=user%3Agoreleaser%20is%3Aopen&style=for-the-badge&logo=GitHub&label=Open%20Issues" alt="Open Issues"></a>
-  <a href="./releases.md"><img src="https://img.shields.io/github/v/release/goreleaser/goreleaser?style=for-the-badge&logo=github&label=Releases" alt="Releases"></a>
-  <a href="./news.md"><img src="https://img.shields.io/badge/news-FD415E?style=for-the-badge&logo=applenews&logoColor=white" alt="News"></a>
+  <a href="./releases.md"><img src="https://img.shields.io/badge/releases-60b6ff?style=for-the-badge&logo=github&logoColor=white" alt="Releases"></a>
+  <a href="https://goreleaser.com/blog/"><img src="https://img.shields.io/badge/news-FD415E?style=for-the-badge&logo=applenews&logoColor=white" alt="News"></a>
 </p>
 
 <h5 align="center">Join the community:</h5>
