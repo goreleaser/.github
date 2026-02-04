@@ -9,4 +9,4 @@
 | nFPM | [v2.45.0](https://github.com/goreleaser/nfpm/releases/tag/v2.45.0) | today |
 | GoReleaser GitHub Action | [v6.4.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.4.0) | 5 months ago |
 | GoReleaser Azure DevOps Extension | [0.1.49](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/0.1.49) | 7 months ago |
-| GoReleaser Cross | [v1.25.5](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.25.5) | 2 weeks ago |
+| GoReleaser Cross | [v1.25.6](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.25.6) | today |
