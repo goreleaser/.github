@@ -1,0 +1,27 @@
+# Configuration for https://github.com/goreleaser/sponsors
+github_user: caarlos0
+opencollective_slug: goreleaser
+
+tiers:
+  - id: diamond
+    name: Diamond
+    monthly_rate: 500
+  - id: platinum
+    name: Platinum
+    monthly_rate: 250
+  - id: gold
+    name: Gold
+    monthly_rate: 100
+  - id: silver
+    name: Silver
+    monthly_rate: 50
+  - id: bronze
+    name: Bronze
+    monthly_rate: 20
+  - id: backer
+    name: Backer
+    monthly_rate: 0
+
+aliases:
+  leaanthony: wailsapp
+  snapit-cypher: interviewpal-com
