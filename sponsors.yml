@@ -30,7 +30,7 @@ external_sponsors:
   - name: SerpApi
     id: serpapi
     source: github
-    website: https://github.com/serpapi
+    website: https://serpapi.com/
     image: https://github.com/serpapi.png
     tier: diamond
     end_date: "2027-03-28"

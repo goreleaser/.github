@@ -8,7 +8,7 @@
 {{- if $sponsors }}
   <h3>{{ $label }}</h3>
 {{- range $sponsors }}
-  <a href="{{ .Website }}" target="_blank" rel="noopener sponsored" ><img src="{{ .LogoWithSize $size }}" alt="{{ .Name }}" width="{{ $size }}" height="{{ $size }}"/></a>
+  <a href="{{ .Website }}?utm_source=goreleaser&utm_medium=sponsor&utm_campaign=homepage&utm_content={{ .Source }}" target="_blank" rel="noopener sponsored" ><img src="{{ .LogoWithSize $size }}" alt="{{ .Name }}" width="{{ $size }}" height="{{ $size }}"/></a>
 {{- end }}
 {{- end -}}
 {{- end -}}
