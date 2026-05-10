@@ -3,7 +3,7 @@
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | GoReleaser | [v2.15.4](https://github.com/goreleaser/goreleaser/releases/tag/v2.15.4) | 2 weeks ago |
-| GoReleaser | [v2.16.0-126cb846-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.16.0-126cb846-nightly) | 1 day ago |
+| GoReleaser | [v2.16.0-bbd87d8e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.16.0-bbd87d8e-nightly) | today |
 | GoReleaser Pro | [v2.15.4](https://github.com/goreleaser/goreleaser-pro/releases/tag/v2.15.4) | 2 weeks ago |
 | GoReleaser Pro | [v2.16.0-187f5c779-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/v2.16.0-187f5c779-nightly) | today |
 | nFPM | [v2.46.3](https://github.com/goreleaser/nfpm/releases/tag/v2.46.3) | 3 weeks ago |
