@@ -3,10 +3,10 @@
 | Project                           | Release                                                                                         | Time        |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | GoReleaser | [v2.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.16.0) | 2 weeks ago |
-| GoReleaser | [v2.17.0-7c73b82e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.17.0-7c73b82e-nightly) | today |
+| GoReleaser | [v2.17.0-7c73b82e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.17.0-7c73b82e-nightly) | 1 day ago |
 | GoReleaser Pro | [v2.16.0](https://github.com/goreleaser/goreleaser-pro/releases/tag/v2.16.0) | 2 weeks ago |
-| GoReleaser Pro | [v2.17.0-27881074b-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/v2.17.0-27881074b-nightly) | 1 day ago |
+| GoReleaser Pro | [v2.17.0-27881074b-nightly](https://github.com/goreleaser/goreleaser-pro/releases/tag/v2.17.0-27881074b-nightly) | 2 days ago |
 | nFPM | [v2.46.3](https://github.com/goreleaser/nfpm/releases/tag/v2.46.3) | 1 month ago |
 | GoReleaser GitHub Action | [v7.2.2](https://github.com/goreleaser/goreleaser-action/releases/tag/v7.2.2) | 2 weeks ago |
-| GoReleaser Azure DevOps Extension | [v0.1.50](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.50) | 1 month ago |
-| GoReleaser Cross | [v1.26.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.26.3) | 5 days ago |
+| GoReleaser Azure DevOps Extension | [v0.1.50](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.50) | 2 months ago |
+| GoReleaser Cross | [v1.26.3](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.26.3) | 6 days ago |
